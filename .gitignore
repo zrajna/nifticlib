@@ -1,0 +1,8 @@
+*.o
+*.a
+*.mk
+bin/
+include/
+utils/nifti1_test
+utils/nifti_stats
+utils/nifti_tool
